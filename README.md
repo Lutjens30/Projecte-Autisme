@@ -1,4 +1,4 @@
-# Deteccio de patrons en l’autisme mitjanc¸ant ML no supervisat
+# Detecció de patrons en l'autisme mitjançant ML no supervisat
 
 L'autisme és un trastorn del desenvolupament neurològic que afecta la comunicació, les habilitats socials i el comportament. En aquest estudi, s'utilitza l'aprenentatge no supervisat per identificar patrons en un conjunt de dades relacionades amb l'autisme. 
 
