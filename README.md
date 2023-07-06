@@ -1,4 +1,4 @@
-![Autisme]([URL del GIF](https://github.com/Lutjens30/Projecte-Autisme/blob/main/Autisme.gif))
+![Autisme](https://raw.github.com/Lutjens30/Projecte-Autisme/blob/main/Autisme.gif)
 
 
 # Detecció de patrons en l'autisme mitjançant ML no supervisat
